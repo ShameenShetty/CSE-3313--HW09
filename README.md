@@ -14,4 +14,4 @@ Learn to extract features from the spectrogram of an audio file.
   - t is an n-element vector of the times at which the signal was evaluated.
   - Sxx is an m × n matrix of the amplitudes of each frequency/time pair.
 
-* 
+* For each of the 64 songs that fit the pattern *song-\*.wav*
