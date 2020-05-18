@@ -3,8 +3,7 @@ This is the coding assignment for Homework 9 for CSE3313 (Introduction to Signal
 
 
 ## Purpose
-Learn to amplify or attenuate a particular range of frequencies.
+Learn to extract features from the spectrogram of an audio file.
 
 ### Process
-a one
-b two
+* In the folder *All Songs* There are 64 songs provided from *song-bagpipe.wav* to *song-winds.wav*, along with *testSong.wav*.
